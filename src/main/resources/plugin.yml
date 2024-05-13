@@ -1,0 +1,4 @@
+name: EcoScoreboard
+version: '${project.version}'
+main: com.kamesuta.ecoscoreboard.EcoScoreboard
+api-version: '1.20'
